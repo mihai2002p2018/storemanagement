@@ -34,7 +34,7 @@ This project is backend-only (no front-end), role-based authentication, error ha
 
 ---
 
-API Endpoints (Summary)
+## API Endpoints (Summary)
 Method	Endpoint	           Role Required   Description
 GET	/api/products	           USER, ADMIN	   List all products
 GET	/api/products/{id}	   USER, ADMIN	   Get product details by ID
